@@ -1,0 +1,5 @@
+2021-07-04 15:29:36.095 [INFO ] [main] FileCopyTest - test
+2021-07-04 15:29:36.097 [ERROR] [main] FileCopyTest - Error
+2021-07-04 15:29:36.098 [FATAL] [main] FileCopyTest - Fatal
+2021-07-04 15:29:36.098 [WARN ] [main] FileCopyTest - Warning Msg
+2021-07-04 15:29:36.098 [DEBUG] [main] FileCopyTest - Debug

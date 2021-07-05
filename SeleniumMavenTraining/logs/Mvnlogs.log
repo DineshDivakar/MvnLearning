@@ -1,0 +1,62 @@
+2021-07-04 14:58:54.389 [INFO ] [main] FileCopyTest - test
+2021-07-04 14:58:54.392 [ERROR] [main] FileCopyTest - Error
+2021-07-04 15:03:56.976 [INFO ] [main] FileCopyTest - test
+2021-07-04 15:03:56.976 [INFO ] [main] FileCopyTest - test
+2021-07-04 15:03:56.979 [ERROR] [main] FileCopyTest - Error
+2021-07-04 15:03:56.979 [ERROR] [main] FileCopyTest - Error
+2021-07-04 15:03:56.979 [FATAL] [main] FileCopyTest - Fatal
+2021-07-04 15:03:56.979 [FATAL] [main] FileCopyTest - Fatal
+2021-07-04 15:03:56.979 [WARN ] [main] FileCopyTest - Warning Msg
+2021-07-04 15:03:56.979 [WARN ] [main] FileCopyTest - Warning Msg
+2021-07-04 15:03:56.979 [DEBUG] [main] FileCopyTest - Debug
+2021-07-04 15:03:56.979 [DEBUG] [main] FileCopyTest - Debug
+2021-07-04 15:04:50.442 [INFO ] [main] FileCopyTest - test
+2021-07-04 15:04:50.442 [INFO ] [main] FileCopyTest - test
+2021-07-04 15:04:50.444 [ERROR] [main] FileCopyTest - Error
+2021-07-04 15:04:50.444 [ERROR] [main] FileCopyTest - Error
+2021-07-04 15:04:50.444 [FATAL] [main] FileCopyTest - Fatal
+2021-07-04 15:04:50.444 [FATAL] [main] FileCopyTest - Fatal
+2021-07-04 15:04:50.444 [WARN ] [main] FileCopyTest - Warning Msg
+2021-07-04 15:04:50.444 [WARN ] [main] FileCopyTest - Warning Msg
+2021-07-04 15:04:50.444 [DEBUG] [main] FileCopyTest - Debug
+2021-07-04 15:04:50.444 [DEBUG] [main] FileCopyTest - Debug
+2021-07-04 15:05:51.618 [INFO ] [main] FileCopyTest - test
+2021-07-04 15:05:51.621 [ERROR] [main] FileCopyTest - Error
+2021-07-04 15:05:51.621 [FATAL] [main] FileCopyTest - Fatal
+2021-07-04 15:05:51.621 [WARN ] [main] FileCopyTest - Warning Msg
+2021-07-04 15:05:51.621 [DEBUG] [main] FileCopyTest - Debug
+2021-07-04 15:09:06.091 [INFO ] [main] FileCopyTest - test
+2021-07-04 15:09:06.094 [ERROR] [main] FileCopyTest - Error
+2021-07-04 15:09:06.094 [FATAL] [main] FileCopyTest - Fatal
+2021-07-04 15:09:06.094 [WARN ] [main] FileCopyTest - Warning Msg
+2021-07-04 15:09:06.094 [DEBUG] [main] FileCopyTest - Debug
+2021-07-04 15:15:49.676 [INFO ] [main] FileCopyTest - test
+2021-07-04 15:15:49.679 [ERROR] [main] FileCopyTest - Error
+2021-07-04 15:15:49.679 [FATAL] [main] FileCopyTest - Fatal
+2021-07-04 15:15:49.679 [WARN ] [main] FileCopyTest - Warning Msg
+2021-07-04 15:15:49.679 [DEBUG] [main] FileCopyTest - Debug
+2021-07-04 15:17:23.738 [INFO ] [main] FileCopyTest - test
+2021-07-04 15:17:23.741 [ERROR] [main] FileCopyTest - Error
+2021-07-04 15:17:23.741 [FATAL] [main] FileCopyTest - Fatal
+2021-07-04 15:17:23.741 [WARN ] [main] FileCopyTest - Warning Msg
+2021-07-04 15:17:23.741 [DEBUG] [main] FileCopyTest - Debug
+2021-07-04 15:18:05.480 [INFO ] [main] FileCopyTest - test
+2021-07-04 15:18:05.482 [ERROR] [main] FileCopyTest - Error
+2021-07-04 15:18:05.482 [FATAL] [main] FileCopyTest - Fatal
+2021-07-04 15:18:05.483 [WARN ] [main] FileCopyTest - Warning Msg
+2021-07-04 15:18:05.483 [DEBUG] [main] FileCopyTest - Debug
+2021-07-04 15:20:31.961 [INFO ] [main] FileCopyTest - test
+2021-07-04 15:20:31.964 [ERROR] [main] FileCopyTest - Error
+2021-07-04 15:20:31.964 [FATAL] [main] FileCopyTest - Fatal
+2021-07-04 15:20:31.964 [WARN ] [main] FileCopyTest - Warning Msg
+2021-07-04 15:20:31.964 [DEBUG] [main] FileCopyTest - Debug
+2021-07-04 15:26:34.084 [INFO ] [main] FileCopyTest - test
+2021-07-04 15:26:34.087 [ERROR] [main] FileCopyTest - Error
+2021-07-04 15:26:34.087 [FATAL] [main] FileCopyTest - Fatal
+2021-07-04 15:26:34.087 [WARN ] [main] FileCopyTest - Warning Msg
+2021-07-04 15:26:34.087 [DEBUG] [main] FileCopyTest - Debug
+2021-07-04 15:27:11.087 [INFO ] [main] FileCopyTest - test
+2021-07-04 15:27:11.090 [ERROR] [main] FileCopyTest - Error
+2021-07-04 15:27:11.090 [FATAL] [main] FileCopyTest - Fatal
+2021-07-04 15:27:11.090 [WARN ] [main] FileCopyTest - Warning Msg
+2021-07-04 15:27:11.090 [DEBUG] [main] FileCopyTest - Debug
