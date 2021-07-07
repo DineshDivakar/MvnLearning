@@ -2,12 +2,13 @@
 
 <suite name="Suite1" verbose="1">
 	<test name="Test">
-<parameter name ="emailid" value = "dinesh_divakar84@yahoo.co.in"/>
-<parameter name = "pwd" value ="Nandhu03"/>
+		<parameter name="emailid"
+			value="dinesh_divakar84@yahoo.co.in" />
+		<parameter name="pwd" value="Nandhu03" />
 		<classes>
 			<class name="com.Automation.Learning.TestCases.LoginTest" />
-			<!--  <class name="com.Automation.Learning.TestCases.DataDrivenTest" />-->
-				<!-- <class name="com.Automation.Learning.TestCases.TestngDataProviderTest" /> -->
+			<!-- <class name="com.Automation.Learning.TestCases.DataDrivenTest" />
+			<class name="com.Automation.Learning.TestCases.TestngDataProviderTest" /> -->
 
 		</classes>
 	</test>
