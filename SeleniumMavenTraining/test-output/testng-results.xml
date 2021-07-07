@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-07-06T20:57:03 EDT" name="Suite1" finished-at="2021-07-06T20:57:11 EDT" duration-ms="8567">
+  <suite started-at="2021-07-07T11:35:29 EDT" name="Default suite" finished-at="2021-07-07T11:35:37 EDT" duration-ms="8204">
     <groups>
     </groups>
-    <test started-at="2021-07-06T20:57:03 EDT" name="Test" finished-at="2021-07-06T20:57:11 EDT" duration-ms="8567">
+    <test started-at="2021-07-07T11:35:29 EDT" name="Default test" finished-at="2021-07-07T11:35:37 EDT" duration-ms="8204">
       <class name="com.Automation.Learning.TestCases.LoginTest">
-        <test-method is-config="true" signature="setup()[pri:0, instance:com.Automation.Learning.TestCases.LoginTest@68999068]" started-at="2021-07-06T20:57:03 EDT" name="setup" finished-at="2021-07-06T20:57:07 EDT" duration-ms="3814" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.Automation.Learning.TestCases.LoginTest@7722c3c3]" started-at="2021-07-07T11:35:29 EDT" name="setup" finished-at="2021-07-07T11:35:32 EDT" duration-ms="3411" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:com.Automation.Learning.TestCases.LoginTest@68999068]" started-at="2021-07-06T20:57:07 EDT" name="login" finished-at="2021-07-06T20:57:10 EDT" duration-ms="3924" status="PASS">
+        <test-method signature="login(java.lang.String,java.lang.String)[pri:0, instance:com.Automation.Learning.TestCases.LoginTest@7722c3c3]" started-at="2021-07-07T11:35:32 EDT" name="login" finished-at="2021-07-07T11:35:36 EDT" duration-ms="3995" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -27,11 +27,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Automation.Learning.TestCases.LoginTest@68999068]" started-at="2021-07-06T20:57:10 EDT" name="teardown" finished-at="2021-07-06T20:57:11 EDT" duration-ms="786" status="PASS">
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.Automation.Learning.TestCases.LoginTest@7722c3c3]" started-at="2021-07-07T11:35:36 EDT" name="teardown" finished-at="2021-07-07T11:35:37 EDT" duration-ms="766" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- teardown -->
       </class> <!-- com.Automation.Learning.TestCases.LoginTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
